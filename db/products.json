@@ -1,0 +1,93 @@
+[
+  {
+    "id": "b0d75563-6dfa-4a8e-832f-cc21a22c6477",
+    "title": "producto updated",
+    "description": "Este es un producto prueba",
+    "code": "7",
+    "price": 1100,
+    "status": true,
+    "stock": 25,
+    "category": "electronic",
+    "thumbnail": [
+      "Sin imagen"
+    ]
+  },
+  {
+    "id": "7fb7571f-c5ac-4497-8d36-9a0cae93ea19",
+    "title": "producto updated",
+    "description": "Este es un producto prueba",
+    "code": "3",
+    "price": 300,
+    "status": true,
+    "stock": 25,
+    "category": "electronic",
+    "thumbnail": [
+      "Sin imagen"
+    ]
+  },
+  {
+    "id": "26d5d1bc-f734-4a2c-8fba-949b579ed5e1",
+    "title": "producto updated",
+    "description": "Este es un producto prueba",
+    "code": "4",
+    "price": 300,
+    "status": true,
+    "stock": 25,
+    "category": "electronic",
+    "thumbnail": [
+      "Sin imagen"
+    ]
+  },
+  {
+    "id": "db4affea-47ba-46a3-b96e-87d8c2636a2b",
+    "title": "producto updated",
+    "description": "Este es un producto prueba",
+    "code": "5",
+    "price": 300,
+    "status": true,
+    "stock": 25,
+    "category": "electronic",
+    "thumbnail": [
+      "Sin imagen"
+    ]
+  },
+  {
+    "id": "12ff0036-7a7b-4ba1-b19d-7e9b98339ab1",
+    "title": "producto updated",
+    "description": "Este es un producto prueba",
+    "code": "6",
+    "price": 300,
+    "status": true,
+    "stock": 25,
+    "category": "electronic",
+    "thumbnail": [
+      "Sin imagen"
+    ]
+  },
+  {
+    "id": "c8eca447-fe60-4078-b65f-b8fbe8027ae8",
+    "title": "producto updated",
+    "description": "Este es un producto prueba",
+    "code": "7",
+    "price": 300,
+    "status": true,
+    "stock": 25,
+    "category": "electronic",
+    "thumbnail": [
+      "Sin imagen"
+    ]
+  },
+  {
+    "id": "a75efdb9-5aa0-4422-8e22-9b5ec8eb22ad",
+    "title": "producto updated",
+    "description": "Este es un producto prueba",
+    "code": "101",
+    "price": 300,
+    "status": true,
+    "stock": 25,
+    "category": "electronic",
+    "thumbnail": [
+      "Sin imagen"
+    ]
+  }
+]
