@@ -2,10 +2,14 @@ import { productsManager as manager } from "../services/productsManager.js"
 
 export async function postController(req, res) {
     const pojo = req.body
-    manager.create(pojo)
-    const pojos = await manager.findAll()
-    pojos.push(pojo)
-    res.json(pojo)
+    try {
+        await manager.create(pojo)
+        const pojos = await manager.findAll()
+        pojos.push(pojo)
+        res.json(pojo)
+    } catch (error) {
+        res.json({message:error.message})
+    }
 }
 
 export async function getController(req, res) {

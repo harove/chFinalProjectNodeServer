@@ -8,77 +8,12 @@
     "status": true,
     "stock": 25,
     "category": "electronic",
-    "thumbnail": [
+    "thumbnails": [
       "Sin imagen"
     ]
   },
   {
-    "id": "7fb7571f-c5ac-4497-8d36-9a0cae93ea19",
-    "title": "producto updated",
-    "description": "Este es un producto prueba",
-    "code": "3",
-    "price": 300,
-    "status": true,
-    "stock": 25,
-    "category": "electronic",
-    "thumbnail": [
-      "Sin imagen"
-    ]
-  },
-  {
-    "id": "26d5d1bc-f734-4a2c-8fba-949b579ed5e1",
-    "title": "producto updated",
-    "description": "Este es un producto prueba",
-    "code": "4",
-    "price": 300,
-    "status": true,
-    "stock": 25,
-    "category": "electronic",
-    "thumbnail": [
-      "Sin imagen"
-    ]
-  },
-  {
-    "id": "db4affea-47ba-46a3-b96e-87d8c2636a2b",
-    "title": "producto updated",
-    "description": "Este es un producto prueba",
-    "code": "5",
-    "price": 300,
-    "status": true,
-    "stock": 25,
-    "category": "electronic",
-    "thumbnail": [
-      "Sin imagen"
-    ]
-  },
-  {
-    "id": "12ff0036-7a7b-4ba1-b19d-7e9b98339ab1",
-    "title": "producto updated",
-    "description": "Este es un producto prueba",
-    "code": "6",
-    "price": 300,
-    "status": true,
-    "stock": 25,
-    "category": "electronic",
-    "thumbnail": [
-      "Sin imagen"
-    ]
-  },
-  {
-    "id": "c8eca447-fe60-4078-b65f-b8fbe8027ae8",
-    "title": "producto updated",
-    "description": "Este es un producto prueba",
-    "code": "7",
-    "price": 300,
-    "status": true,
-    "stock": 25,
-    "category": "electronic",
-    "thumbnail": [
-      "Sin imagen"
-    ]
-  },
-  {
-    "id": "a75efdb9-5aa0-4422-8e22-9b5ec8eb22ad",
+    "id": "71967d66-ddf0-4c37-9d5c-e817b54845b6",
     "title": "producto updated",
     "description": "Este es un producto prueba",
     "code": "101",
@@ -86,7 +21,124 @@
     "status": true,
     "stock": 25,
     "category": "electronic",
-    "thumbnail": [
+    "thumbnails": [
+      "Sin imagen"
+    ]
+  },
+  {
+    "id": "6884ac83-ee5d-42d0-951a-4ba0ff365dee",
+    "title": "producto updated",
+    "description": "Este es un producto prueba",
+    "code": "102",
+    "price": 300,
+    "status": true,
+    "stock": 25,
+    "category": "electronic",
+    "thumbnails": [
+      "Sin imagen"
+    ]
+  },
+  {
+    "id": "c410b2ea-296a-45ae-ac57-85339e26d2c0",
+    "title": "producto updated",
+    "description": "Este es un producto prueba",
+    "code": "103",
+    "price": 300,
+    "status": true,
+    "stock": 25,
+    "category": "electronic",
+    "thumbnails": [
+      "Sin imagen"
+    ]
+  },
+  {
+    "id": "77a9bf15-4f93-4fa2-810d-6ea6ef1102d5",
+    "title": "producto updated",
+    "description": "Este es un producto prueba",
+    "code": "104",
+    "price": 300,
+    "status": true,
+    "stock": 25,
+    "category": "electronic",
+    "thumbnails": [
+      "Sin imagen"
+    ]
+  },
+  {
+    "id": "4844c32b-45a2-4ffb-9566-a6c30ca65fa8",
+    "title": "producto updated",
+    "description": "Este es un producto prueba",
+    "code": "105",
+    "price": 300,
+    "status": true,
+    "stock": 25,
+    "category": "electronic",
+    "thumbnails": [
+      "Sin imagen"
+    ]
+  },
+  {
+    "id": "f52367ae-7f04-49ab-9533-582b1d1c4b91",
+    "title": "producto updated",
+    "description": "Este es un producto prueba",
+    "code": "106",
+    "price": 300,
+    "status": true,
+    "stock": 25,
+    "category": "electronic",
+    "thumbnails": [
+      "Sin imagen"
+    ]
+  },
+  {
+    "id": "0f24557d-5aee-45cd-b1a1-151d83f9975a",
+    "title": "producto updated",
+    "description": "Este es un producto prueba",
+    "code": "106",
+    "price": 300,
+    "status": true,
+    "stock": 25,
+    "category": "electronic",
+    "thumbnails": [
+      "Sin imagen"
+    ]
+  },
+  {
+    "id": "c5682eae-8b7a-41f8-b6bf-274ce2c681bc",
+    "title": "producto updated",
+    "description": "Este es un producto prueba",
+    "code": "107",
+    "price": 300,
+    "status": true,
+    "stock": 25,
+    "category": "electronic",
+    "thumbnails": [
+      "Sin imagen"
+    ]
+  },
+  {
+    "id": "9e003cdc-e9cc-4b42-b320-11701af4e9a4",
+    "title": "producto updated",
+    "description": "Este es un producto prueba",
+    "code": "107",
+    "price": 300,
+    "status": true,
+    "stock": 25,
+    "category": "electronic",
+    "thumbnails": [
+      "Sin imagen"
+    ]
+  },
+  {
+    "id": "1ad17326-01d5-481e-9068-75acf32031e9",
+    "title": "producto updated",
+    "description": "Este es un producto prueba",
+    "code": "108",
+    "price": 300,
+    "status": true,
+    "stock": 25,
+    "category": "electronic",
+    "thumbnails": [
       "Sin imagen"
     ]
   }

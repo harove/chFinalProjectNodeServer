@@ -2,7 +2,7 @@ import { notNegative } from '../helpers/notNegative.js';
 import { notNull } from '../helpers/notNull.js';
 
 export class Product {
-    constructor({id, code, title, description, price, thumbnail = [], status = true,  stock = 0, category }) {
+    constructor({id, code, title, description, price, thumbnails = [], status = true,  stock = 0, category }) {
         this.id = notNull(id, 'id');
         this.title = notNull(title, 'title');
         this.description = notNull(description, 'description');
@@ -11,7 +11,7 @@ export class Product {
         this.status = status
         this.stock = notNull(notNegative(stock, 'stock'));
         this.category = notNull(notNegative(category, 'stock'));
-        this.thumbnail = thumbnail
+        this.thumbnails = thumbnails        
     }
 
     asPOJO() {
@@ -24,7 +24,7 @@ export class Product {
             status: this.status,
             stock: this.stock,
             category: this.category,
-            thumbnail: this.thumbnail,
+            thumbnails: this.thumbnails,
         };
     }
 }

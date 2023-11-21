@@ -13,34 +13,8 @@ app.use(express.static('./views'))
 app.use('/static', express.static('./static'))
 
 app.use(apiRouter)
-
-
-
-app.get('/', (req, res) => {
-    req.saludar()
-    res.send('personas.handlebars')
-})
-
-// app.engine('handlebars', handlebars.engine())
-// app.set('views', './views')
-
-
-
-
-
-
-
-// app.get('/', (req, res) => {
-//     res.render('personas.handlebars')
-// })
-
-// app.get('/registro', (req, res) => {
-//     res.render('registro.handlebars')
-// })
-
-
-
-
-
+app.use((req, res, next) => {
+    res.status(404).send('Not Found');
+});
 
 app.listen(8080, ()=> {console.log('conectado')})
