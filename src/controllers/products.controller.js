@@ -4,8 +4,6 @@ export async function postController(req, res) {
     const pojo = req.body
     try {
         await manager.create(pojo)
-        const pojos = await manager.findAll()
-        pojos.push(pojo)
         res.json(pojo)
     } catch (error) {
         res.json({message:error.message})
